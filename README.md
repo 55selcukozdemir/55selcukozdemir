@@ -10,7 +10,7 @@
 <img title="Git" alt="Git" width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
 <img alt="JS" title="JavaScript" width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
 </p>
-----
+---
 
 **İnşaat Mühendisliği yazılımları**
 <p>
@@ -18,7 +18,7 @@
 <img width="15%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/sap2000-vector-logo.svg">
 <img width="15%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/solidworks.svg">
 </p>
-                
+
 
 **Ofis Yazılımları**
 <p>
