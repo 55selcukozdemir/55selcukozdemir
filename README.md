@@ -14,6 +14,10 @@
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/75b63af2b7a7541d4af32347f6d4abb344f75d23/src/autocad-2016-icon.svg" />
 <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/75b63af2b7a7541d4af32347f6d4abb344f75d23/src/sap2000-vector-logo.svg">
 <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/75b63af2b7a7541d4af32347f6d4abb344f75d23/src/solidworks.svg">
-
 </p>
-
+<br>
+<p>
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/75b63af2b7a7541d4af32347f6d4abb344f75d23/src/autocad-2016-icon.svg" />
+<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/75b63af2b7a7541d4af32347f6d4abb344f75d23/src/sap2000-vector-logo.svg">
+<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/75b63af2b7a7541d4af32347f6d4abb344f75d23/src/solidworks.svg">
+</p>
