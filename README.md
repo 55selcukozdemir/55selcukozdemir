@@ -18,14 +18,14 @@
 <img width="15%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/solidworks.svg">
 </p>
 
-## Ofis Yazılımları
+**Ofis Yazılımları**
 <p>
 <img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/word.svg" />
 <img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/excel.svg">
 <img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/powerpoint.svg">
 </p>
 
-## Adobe Yazılımları
+**Adobe Yazılımları**
 <p>
 <img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/aftereffects.svg" />
 <img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/illustrator.svg">
