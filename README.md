@@ -24,7 +24,6 @@
 <img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/excel.svg">
 <img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/powerpoint.svg">
 </p>
-=============
 
 ## Adobe Yazılımları
 <p>
