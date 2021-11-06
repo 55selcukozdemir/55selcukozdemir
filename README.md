@@ -36,7 +36,7 @@
 
 ## Ulaşım bilgilerim :
 <p>
-<img width="100%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/ac.png" /></p>
+<img width="50%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/ac.png" /></p>
 </p>
 
 <img align="center" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/allday.gif">
