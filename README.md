@@ -13,7 +13,7 @@
 
 **İnşaat Mühendisliği yazılımları**
 <p>
-<img title="Autocad" alt="Autocad" width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/75b63af2b7a7541d4af32347f6d4abb344f75d23/src/autocad-2016-icon.svg" />
+<img title="Autocad" alt="Autocad" width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/autocad.png" />
 <img alt="SAP2000" title="SAP2000" width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/75b63af2b7a7541d4af32347f6d4abb344f75d23/src/sap2000-vector-logo.svg">
 <img title="Solidworks" alt="Solidworks" width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/75b63af2b7a7541d4af32347f6d4abb344f75d23/src/solidworks.svg">
 </p>
