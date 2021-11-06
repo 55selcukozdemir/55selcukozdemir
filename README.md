@@ -34,5 +34,5 @@
 <img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/premierepro.svg">
 </p>
 
-<img src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/allday.gif">
+<img align="center" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/allday.gif">
 
