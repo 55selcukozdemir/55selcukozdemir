@@ -18,7 +18,7 @@
 <img width="15%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/sap2000-vector-logo.svg">
 <img width="15%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/solidworks.svg">
 </p>
-----
+                
 
 **Ofis Yazılımları**
 <p>
