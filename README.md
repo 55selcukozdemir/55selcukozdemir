@@ -18,6 +18,21 @@
 <img title="Solidworks" alt="Solidworks" width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/75b63af2b7a7541d4af32347f6d4abb344f75d23/src/solidworks.svg">
 </p>
 
+**Ofis Yazılımları**
+<p>
+<img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/word.svg" />
+<img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/excel.svg">
+<img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/powerpoint.svg">
+</p>
+
+**Adobe Yazılımları**
+<p>
+<img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/aftereffects.svg" />
+<img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/illustrator.svg">
+<img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/indesign.svg">
+<img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/photoshop.svg">
+<img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/premierepro.svg">
+</p>
 
 <img src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/allday.gif">
 
