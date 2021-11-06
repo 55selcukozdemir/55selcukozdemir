@@ -6,8 +6,8 @@
 <img title="Java" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
 <img title="Kotlin" alt="Kotlin" width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" />
 <img title="Android" alt="Android" width="40px" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" />
-<img title="Android" alt="Android" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
-<img title="Android" alt="Android" width="40px" src="www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
+<img title="Firebase" alt="Firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
+<img title="Git" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
 <img alt="JS" title="JavaScript" width="40px" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
 </p>
 
