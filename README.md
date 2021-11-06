@@ -18,3 +18,6 @@
 <img title="Solidworks" alt="Solidworks" width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/75b63af2b7a7541d4af32347f6d4abb344f75d23/src/solidworks.svg">
 </p>
 
+
+<img src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/allday.gif">
+
