@@ -36,7 +36,7 @@
 
 ## Ulaşım bilgilerim :
 <p>
-<p><img width="3%" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /><a>55selcukozdemir</a></p>
+<p><img width="3%" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />55selcukozdemir</p>
 </p>
 
 <img align="center" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/allday.gif">
