@@ -34,7 +34,7 @@
 <img width="10%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/premierepro.svg">
 </p>
 
-## Ulaşım bilgilerim :
+## İletişim bilgilerim :
 <p>
 <img width="50%" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/ac.png" /></p>
 </p>
