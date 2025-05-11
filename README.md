@@ -1,5 +1,5 @@
 # Selam ben Selçuk
-İnşaat Mühendisliği 4. sınıf öğrencisiyim. Hobi olarak Android için mobil uygulama geliştiriyorum. Geliştirdiğim projeleri github üzerinde paylaşmaktayım.
+Lisansımı İnşaat Mühendisliği alanında bitirdim. Hobi olarak ilgilendiğim yazılım sonrasında mesleğim oldu. Şu an Yazılımcı olarak çalışmaktayım. Aynı zamanda Yazılım Mühendisliği için yüksek lisansımı yapmaktayım.
 
 
 
