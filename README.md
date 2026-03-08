@@ -4,11 +4,11 @@
 ## 😴
 <img align="center" src="https://raw.githubusercontent.com/55selcukozdemir/55selcukozdemir/main/src/allday.gif">
 
-
 # Selçuk Özdemir
 **Software Developer | Full Stack .NET Developer**
 
-📍 Atakum, Samsun, Türkiye · 📞 +90 544 270 73 62 · ✉️ 55selcukozdemir@gmail.com
+📍 Atakum, Samsun, Türkiye · 📞 +90 544 270 73 62 · ✉️ 55selcukozdemir@gmail.com  
+🐙 [GitHub](https://github.com/55selcukozdemir/) · 💼 [LinkedIn](https://www.linkedin.com/in/sel%C3%A7uk-%C3%B6zdemir-52b3401a4/)
 
 ---
 
@@ -33,7 +33,7 @@ Full-stack software developer with experience building scalable backend systems,
 
 ## Professional Experience
 
-**Software Developer — Ada Yazılım** *(2023 – Present)*
+**Software Developer — Ada Yazılım** *(2023 – 2026)*
 - Develop full-stack enterprise applications using .NET and modern frontend frameworks.
 - Maintain and improve legacy systems built with .NET Framework.
 - Contributed to migration of backend architecture to Domain Driven Design.
